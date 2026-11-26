@@ -6,6 +6,7 @@ Writes a one-line weather forecast for a fictional city to entry.txt.
 import os
 from pathlib import Path
 
+# One line, 133 characters, within the 140 character limit.
 LINE = "In Drizzleville, light drizzle all morning, turning to confetti by noon; umbrellas optional, dancing in the puddles strongly advised."
 
 
